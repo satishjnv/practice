@@ -4,8 +4,6 @@
 x=1+2
 
 # substration
-
-# Multiplaction
 #
 # Division
 #
