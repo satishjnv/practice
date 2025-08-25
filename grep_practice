@@ -1,0 +1,22 @@
+#!/bin/bash
+#################################################
+#
+#Author: Satish
+#
+#Date: 22/08/2025
+#
+#Practice: Useage of the pipe parameter
+#
+#################################################
+echo 12
+echo 13
+echo 14
+echo 15
+echo 17
+echo 21
+echo 22
+echo 22
+echo 11
+echo 55
+echo 51
+
